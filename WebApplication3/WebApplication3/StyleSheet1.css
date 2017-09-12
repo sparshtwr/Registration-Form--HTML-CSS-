@@ -1,0 +1,14 @@
+﻿body {
+}
+.divForText
+{
+    position: absolute;
+    z-index: inherit;
+    top: 91px;
+    left: 75px;
+    width: 596px;
+    height: 155px;
+    font-weight: 700;
+    font-size: xx-large;
+    color: #FF0000;
+}
